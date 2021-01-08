@@ -50,6 +50,7 @@
 - not very good
 - extremely sad
 - so sad
+- in very very very pain
 
 ## intent:bot_challenge
 - are you a bot?
