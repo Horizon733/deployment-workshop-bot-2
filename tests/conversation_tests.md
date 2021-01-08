@@ -51,15 +51,3 @@
 * bot_challenge: are you a bot?
   - utter_iamabot
 
-## Story from conversation with 8cbeedbb3fb7464fbe68a58c308233f5 on January 7th 2021
-
-* greet: hey
-    - action_hi
-* affirm: cool
-    - utter_happy
-* greet: woh!
-    - action_hi
-* mood_unhappy: not that great
-    - utter_cheer_up
-    - utter_did_that_help
-* greet: hahah
